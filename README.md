@@ -63,3 +63,8 @@ V adresáři, kde bude náš web:
 
 1. git checkout master
 2. git checkout moje-vetev
+
+
+## Přidej všechno a commitni
+
+git commit -am "vše změněno :)"
