@@ -68,3 +68,11 @@ V adresáři, kde bude náš web:
 ## Přidej všechno a commitni
 
 git commit -am "vše změněno :)"
+
+
+## Synchronizace po mergování (~= svn update)
+
+1. git checkout master
+2. git pull origin master # stáhnu všechny změny
+3. git checkout moje-vetev
+4. moje-vetev musí mít commitnuté změny
