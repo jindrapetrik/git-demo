@@ -52,3 +52,9 @@ V adresáři, kde bude náš web:
  Nikdy byste neměli dělat na "master", ale na vlastní větvi.
  
  1. git checkout -B <nazev-vetve>
+ 2. commity do nové větvě
+
+
+## Vrácení změn do původního stabu
+
+1. git checkout Readme.md
