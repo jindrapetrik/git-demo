@@ -82,3 +82,22 @@ git commit -am "vše změněno :)"
 1. přidat si hlavní větev mezi svá připojení: git remote add upstream https://github.com/TomasVotruba/git-demo.git
 2. git fetch upstream
 3. git merge upstream/master => zkouší mergovat, pokud vznikne konflikt, je potřeba ho pořešit
+
+## PRO VLASTNÍKY RŮŽOVÝCH TRIČEK S JEDNOROŽCEM
+
+                 .-.   _                __
+                `  )`'-,`\        .-''``.-'
+   _.-''-.      _.'       `'--._.' ,-'  /
+   `\    _`'--'`                      .'
+     '._ _`-       .--.   .--.      (`
+        `.'       /    '.'    \      '.
+       .'         \  0  |  0  /        '.
+      /   _        '._.---._.'      _    \
+      /    `'-.      (     )    .-'`     \
+      / .---'_.   .   `-,-`  .  ._'---.  \
+      |   -'`   .       |      .  `'-    |
+      /_       .   '   /;\  '    .     ,_\
+        '-.     '-..-`( ' )`-..-'     /
+           '._         '-'         _.'
+              '-..,__       __,..-'
+                     `'---'`
