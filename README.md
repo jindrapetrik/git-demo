@@ -58,3 +58,8 @@ V adresáři, kde bude náš web:
 ## Vrácení změn do původního stabu
 
 1. git checkout Readme.md
+
+## Přepínání mezi větvemi
+
+1. git checkout master
+2. git checkout moje-vetev
