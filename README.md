@@ -76,7 +76,7 @@ git commit -am "vše změněno :)"
 2. git pull origin master # stáhnu všechny změny
 3. git checkout moje-vetev
 4. moje-vetev musí mít commitnuté změny
-
+```
 
                  .-.   _                __
                 `  )`'-,`\        .-''``.-'
@@ -94,3 +94,4 @@ git commit -am "vše změněno :)"
            '._         '-'         _.'
               '-..,__       __,..-'
                      `'---'`
+```                     
