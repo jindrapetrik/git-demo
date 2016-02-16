@@ -77,6 +77,14 @@ git commit -am "vše změněno :)"
 3. git checkout moje-vetev
 4. moje-vetev musí mít commitnuté změny
 
+## Synchronizace s hlavní větví
+
+1. přidat si hlavní větev mezi svá připojení: git remote add upstream https://github.com/TomasVotruba/git-demo.git
+2. git fetch upstream
+3. git merge upstream/master => zkouší mergovat, pokud vznikne konflikt, je potřeba ho pořešit
+
+## PRO VLASTNÍKY RŮŽOVÝCH TRIČEK S JEDNOROŽCEM
+
 ```
                  .-.   _                __
                 `  )`'-,`\        .-''``.-'
@@ -94,4 +102,3 @@ git commit -am "vše změněno :)"
            '._         '-'         _.'
               '-..,__       __,..-'
                      `'---'`
-```
